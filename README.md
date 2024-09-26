@@ -1,6 +1,8 @@
 ## Hey there 👋
 
-This is arinda.emmanuel... from Makerere, dabbling in software
+![grass](https://github.com/user-attachments/assets/d2ffb8dd-9d34-4d48-841c-d7d3d8cc8d5a)
+
+This is arinda.emmanuel... from Makerere, dabbling in software 👾
 
 Avid fan of python, currently working on C.
 
