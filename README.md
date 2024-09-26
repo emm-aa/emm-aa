@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hey there 👋
+
+This is arinda.emmanuel... from Makerere, dabbling in software
+
+Avid fan of python, currently working on C.
+
+Will post updates with progression!
+
 
 <!--
 **emm-aa/emm-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+T
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
