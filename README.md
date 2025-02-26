@@ -4,9 +4,11 @@
 
 This is arinda.emmanuel... from Makerere, dabbling in software 👾
 
-Avid fan of python, currently working on C.
+Avid fan of python, currently working on Java!
 
 Will post updates with progression!
+
+C practice tips please HMU!
 
 
 <!--
