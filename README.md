@@ -1,4 +1,4 @@
-## Hey there 👋
+# Hey there 👋
 
 ![grass](https://github.com/user-attachments/assets/d2ffb8dd-9d34-4d48-841c-d7d3d8cc8d5a)
 
@@ -10,6 +10,9 @@ Will post updates with progression!
 
 C practice tips please HMU!
 
+## Another heading
+
+More changes!
 
 <!--
 **emm-aa/emm-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
